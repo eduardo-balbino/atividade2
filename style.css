@@ -1,3 +1,8 @@
 .box {
     outline: auto;
 }
+
+.projeto {
+    boder: solid: 2px, black;
+    display: inline-block;
+}
